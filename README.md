@@ -1,9 +1,6 @@
-# businessprocessautomation.github.io
+# Business Process Automation
 
 
-Test 222
 
-http://businessprocessautomation.se
-
-[I'm an BPA inline-style link with title](https://www.businessprocessautomation.se/ "Google's Homepage")
+[Business Process Automation Sverige](https://www.businessprocessautomation.se/ "Business Process Automation Sverige")
 
